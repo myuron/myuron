@@ -27,6 +27,8 @@ Here are some ideas to get you started:
   </a>
 </p>
 
+[![My Skills](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=myuron&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=myuron&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=myuron&theme=gruvbox)
