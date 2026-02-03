@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="left">
+  <a href="https://github.com/myuron">
+    <img height="20" src="https://komarev.com/ghpvc/?username=myuron" />
+  </a>
+  <a href="https://github.com/myuron">
+    <img height="20" src="https://img.shields.io/github/followers/myuron?label=follow&logo=github&style=flat" />
+  </a>
+  <a href="https://zenn.dev/myuron">
+    <img height="20" src="https://badgen.org/img/zenn/myuron/articles?style=plastic" />
+  </a>
+</p>
