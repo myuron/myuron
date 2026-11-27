@@ -1,22 +1,20 @@
-## Hi there 👋
-```
- _ __ ___  _   _ _   _ _ __ ___  _ __
-| '_ ` _ \| | | | | | | '__/ _ \| '_ \
-| | | | | | |_| | |_| | | | (_) | | | |
-|_| |_| |_|\__, |\__,_|_|  \___/|_| |_|
-           |___/
-```
-<!--
-**myuron/myuron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi, I'm myuron 👋
 
-Here are some ideas to get you started:
+### Profile
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```json
+{
+  "myuron": [
+    { "work": "Infrastructure Engineer" },
+    { "hobby": "Open Source" },
+    { "tools": ["Rust", "Go", "Nix", "Neovim"] }
+  ]
+}
+```
+
+### Products
+
+| Product | Description |
+| --- | --- |
+| [nvimx](https://github.com/myuron/nvimx) | Manage Neovim plugins with Nix, driven by the same lazy.nvim style Lua Config you already write |
+| [kugutsu](https://github.com/myuron/kugutsu) | An Agentic Development Environment (ADE): a terminal workspace for running coding agents side by side |
