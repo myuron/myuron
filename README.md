@@ -18,3 +18,9 @@
 | --- | --- |
 | [nvimx](https://github.com/myuron/nvimx) | Manage Neovim plugins with Nix, driven by the same lazy.nvim style Lua Config you already write |
 | [kugutsu](https://github.com/myuron/kugutsu) | An Agentic Development Environment (ADE): a terminal workspace for running coding agents side by side |
+
+#### Kugutsu Eco System
+
+| Product | Description |
+| --- | --- |
+| [catppuccin.kugutsu](https://github.com/myuron/catppuccin.kugutsu) | Soothing pastel theme for Kugutsu, based on the Catppuccin palette |
