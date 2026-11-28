@@ -23,4 +23,5 @@
 
 | Product | Description |
 | --- | --- |
-| [catppuccin.kugutsu](https://github.com/myuron/catppuccin.kugutsu) | Soothing pastel theme for Kugutsu, based on the Catppuccin palette |
+| [catppuccin.kugutsu](https://github.com/myuron/catppuccin.kugutsu) | theme for Kugutsu, based on the Catppuccin palette |
+| [kanagawa.kugutsu](https://github.com/myuron/kanagawa.kugutsu) | theme for Kugutsu, based on the Kanagawa palette |
